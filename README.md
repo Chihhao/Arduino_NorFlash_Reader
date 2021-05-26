@@ -16,7 +16,7 @@
 
 ## 函式庫
 (1) 請複製library目錄中的所有資料到Arduino的library目錄 (ex: C:\Users\USERNAME\Documents\Arduino\libraries)  
-(2) 或者可以自行下載，網址如下 
+(2) 或者可以自行下載，網址如下  
 https://github.com/Marzogh/SPIMemory  
 
 ## C# UI
