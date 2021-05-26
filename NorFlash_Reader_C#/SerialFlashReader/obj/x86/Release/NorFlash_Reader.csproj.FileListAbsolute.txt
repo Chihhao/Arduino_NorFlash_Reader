@@ -1,0 +1,8 @@
+C:\GitHub\Arduino_NorFlash_Reader\NorFlash_Reader_C#\SerialFlashReader\bin\Release\NorFlash_Reader.exe
+C:\GitHub\Arduino_NorFlash_Reader\NorFlash_Reader_C#\SerialFlashReader\bin\Release\NorFlash_Reader.pdb
+C:\GitHub\Arduino_NorFlash_Reader\NorFlash_Reader_C#\SerialFlashReader\obj\x86\Release\SerialFlashReader.Form1.resources
+C:\GitHub\Arduino_NorFlash_Reader\NorFlash_Reader_C#\SerialFlashReader\obj\x86\Release\NorFlash_Reader.Properties.Resources.resources
+C:\GitHub\Arduino_NorFlash_Reader\NorFlash_Reader_C#\SerialFlashReader\obj\x86\Release\NorFlash_Reader.csproj.GenerateResource.Cache
+C:\GitHub\Arduino_NorFlash_Reader\NorFlash_Reader_C#\SerialFlashReader\obj\x86\Release\NorFlash_Reader.exe
+C:\GitHub\Arduino_NorFlash_Reader\NorFlash_Reader_C#\SerialFlashReader\obj\x86\Release\NorFlash_Reader.pdb
+C:\GitHub\Arduino_NorFlash_Reader\NorFlash_Reader_C#\SerialFlashReader\obj\x86\Release\NorFlash_Reader.csprojResolveAssemblyReference.cache
