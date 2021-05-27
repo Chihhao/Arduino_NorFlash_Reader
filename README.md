@@ -6,6 +6,8 @@
 1. 用Arduino讀取Flash，利用串列將資料報給PC
 2. 用C#製作一個PC軟體，讀取串列資料，儲存成檔案
 
+![image](https://github.com/Chihhao/Arduino_NorFlash_Reader/blob/main/image/0.jpg)  
+
 ## Wiring  
 ![image](https://github.com/Chihhao/Arduino_NorFlash_Reader/blob/main/image/wiring_8SOP.png)
 ![image](https://github.com/Chihhao/Arduino_NorFlash_Reader/blob/main/image/wiring_16SOP.png)
